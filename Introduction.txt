@@ -1,0 +1,7 @@
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. 
+Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, 
+so make sure that you explicitly describe your audience and why they would care about your problem.
+
+
+Rovinj is a popular touristic destination in Croatia and many apartment are built every year. 
+An interesting project for investors would be defining the perfect location for building accomodation for tourists regarding to the viciniti to restaurants, the beach etc.
